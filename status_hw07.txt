@@ -1,0 +1,38 @@
+
+Web Dev Spring 2021 HW07 Status
+
+Answer the following questions:
+
+
+1. What's your name?
+Andris Zonies
+
+
+
+2. What's the URL of the github repo with your work for this HW?
+github.com/AndrisZo/webdevhw07
+
+
+3. What's the URL that you deployed to?
+I didn't deploy this homework.
+
+
+4. Is your app functionality complete? If not, what's missing?
+None of the functionality is there unfortunately. 
+
+
+5. Is your app properly deployed? If not, what went wrong?
+It is not. What went wrong is that I simply did not understand what was happening in class enough to do the homework. 
+
+
+6. If you would like the deployment for an old homework to be reconsidered, what
+are the links to your Inkfish submission and deployed site?
+Homework 4:
+https://inkfish.ntuck-neu.site/subs/5010
+hw04.physicalmod.com
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Development
+ - Deployment
+ - Submission
